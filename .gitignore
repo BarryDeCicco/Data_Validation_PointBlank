@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+# extdata folder in inst
+/inst/extdata
+
+
+
